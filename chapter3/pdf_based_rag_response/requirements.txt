@@ -1,0 +1,5 @@
+# For Chap3_03_QuestionAnsweringOnPDF
+redis==4.5.5
+pypdf==3.11.0
+# numpy==1.24.3
+numpy==2.0.0

@@ -1,0 +1,5 @@
+# For Chap3_04_VoiceAssistant
+gradio==4.24.0
+ffmpeg-python==0.2.0
+openai-whisper==20231117
+pydantic==2.6.4
